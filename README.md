@@ -1,7 +1,6 @@
 # LINE Echo Bot with TypeScript
 
-An example LINE bot to echo message with TypeScript.
-This repository is for reproducing types issue with v8.0.0 of `@line/bot-sdk`
+An example repro for types issue with v8.0.0 of `@line/bot-sdk`
 
 ## Prerequisite
 
